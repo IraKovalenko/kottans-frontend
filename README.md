@@ -1,1 +1,2 @@
 # kottans-frontend
+Hi there! Here is my impressions about learned materials. I guess the structure of 'How to use Git and GitHub' lessons is great, they teatch to perfome the basic and crucial operations, but a representation is a bit naive. Git skills could be used not only for programming purposes, and a 'Learngitbranching' tutorial is the greates visualization I've seen, it's deffinitly may help you to refresh your knowlege once it's needed.
