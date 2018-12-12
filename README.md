@@ -21,3 +21,17 @@ Hi there! Here is my impressions about learned materials. I guess the structure 
 *what you intend to use in future*
 - aliases, especially for often used git commands
 - bash scripts
+
+## Git Collaboration
+
+![lesson1](task_git_collaboration/lesson1.png)
+![lesson2](task_git_collaboration/lesson2.png)
+
+*what was new to you*
+- 'git log -w'
+
+*what surprised you*
+- 'git commit -a' != 'git commit --ammend'
+
+*what you intend to use in future*
+- git rebase -i
