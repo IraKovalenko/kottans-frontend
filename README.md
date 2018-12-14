@@ -44,12 +44,12 @@ Hi there! Here is my impressions about learned materials. I guess the structure 
 
 *what was new to you*
 - figure, figcaption
-- <del></del>, <ins></ins> and theirs attribute 'datetime'
-- <mark></mark>
+- del, ins and theirs attribute 'datetime'
+- mark
 - table caption has property 'caption-side: bottom/top'
-- <select multiple></select> and to choose several options you should click with ctrl
-- <input type="hidden">
-- if there will be <input type="file">, the outer form should have  an attribute 'enctype="multipart/form-data"'
+- select has attribute 'multiple' and to choose several options you should click with ctrl
+- input type="hidden"
+- if there will be input type="file", the outer form should have  an attribute 'enctype="multipart/form-data"'
 
 *what surprised you*
 - if option of select has no attribute 'value', then a writing inside the tag will be sent instead
